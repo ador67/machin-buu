@@ -10,7 +10,7 @@ body{
     align-items: center;
     min-height: 100vh;
     /* background: #23242a; */
-    background-image: url('/login/layered-waves-haikei.svg');
+    background-image: url('layered-waves-haikei.svg');
     background-size: cover;
     background-repeat: no-repeat;
 

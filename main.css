@@ -2,9 +2,9 @@
 
 body{
     font-family: 'Work Sans', sans-serif;
-    scroll-behavior: smooth;
-
 }
+html{
+       scroll-behavior: smooth;
 *{
     margin: 0;
     padding: 0;
